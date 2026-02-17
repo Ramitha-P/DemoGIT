@@ -1,2 +1,3 @@
 Git is global information tracker.
 Git has mainly 3 commands.
+The commands are -> add-commit-push-pull
