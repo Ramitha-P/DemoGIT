@@ -1,1 +1,2 @@
 Git is global information tracker.
+Git has mainly 3 commands.
